@@ -1,0 +1,12 @@
+Package: pxRmisc
+Type: Package
+Title: Miscellaneous helper functions for pxR package 
+Version: 0.1.0
+Date: 2017-09-17
+Authors@R: c(person("Graeme", "Walsh", role = c("aut", "cre"),
+         email = "Graeme.Walsh@hotmail.co.uk"))
+Author: Graeme Walsh [aut, cre]
+Maintainer: Graeme Walsh <graeme.walsh@hotmail.co.uk>
+Depends: pxR
+Description: pxRmisc provides a set of helper functions for working with "px" objects.
+License: GPL-3
